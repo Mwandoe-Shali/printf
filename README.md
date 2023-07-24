@@ -46,12 +46,12 @@ Handle the precision for non-custom conversion specifiers.
 Handle the 0 flag character for non-custom conversion specifiers.
 
 13. Every time that I wanted to give up, if I saw an interesting textile, print what
- ever, suddenly I would see a collection
+ever, suddenly I would see a collection
 Handle the - flag character for non-custom conversion specifiers.
 
-14. Print is the sharpest and the strongest weapon of our party
+15. Print is the sharpest and the strongest weapon of our party
 Handle the following custom conversion specifier:
 
-15. The flood of print has turned reading into a process of gulping rather than savo
+16. The flood of print has turned reading into a process of gulping rather than savo
 ring
 Handle the following custom conversion specifier:
